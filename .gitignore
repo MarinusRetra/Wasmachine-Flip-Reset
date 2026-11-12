@@ -1,0 +1,38 @@
+# HDL Designer generated/intermediate files
+compile/
+*.tmp
+*.bak
+*.old
+~*
+
+# Simulation output
+*.vcd
+*.wlf
+*.fst
+*.wdb
+sim_out/
+waveforms/
+
+# Synthesis/FPGA output
+*.bit
+*.sof
+*.dcp
+*.rpt
+*.log
+*.html
+*.xml
+*.edf
+*.edif
+
+# HDL Designer project locks & user prefs
+*.hdp.lock
+hds_user/
+hds_team/
+
+# HDL Designer cache
+*.cache.dat   
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini   

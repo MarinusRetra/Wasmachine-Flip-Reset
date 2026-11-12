@@ -1,0 +1,19 @@
+[QuestaSim]
+Wasmachine_Flip_Reset_lib = $HDS_PROJECT_DIR/Wasmachine_Flip_Reset_lib/work
+[SvAssistant]
+Wasmachine_Flip_Reset_lib = $HDS_PROJECT_DIR/Wasmachine_Flip_Reset_lib/svassistant
+[hdl]
+Wasmachine_Flip_Reset_lib = $HDS_PROJECT_DIR\Wasmachine_Flip_Reset_lib\hdl
+[hdl_vm]
+Wasmachine_Flip_Reset_lib = $HDS_HOME/examples/hds_scratch/hds_repository/hdl_vm
+[hdl_ws]
+Wasmachine_Flip_Reset_lib = $HDS_PROJECT_DIR
+[hds]
+Wasmachine_Flip_Reset_lib = $HDS_PROJECT_DIR\Wasmachine_Flip_Reset_lib\hds
+[hds_settings]
+default_library = Wasmachine_Flip_Reset_lib
+version = 3
+[library_type]
+Wasmachine_Flip_Reset_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
